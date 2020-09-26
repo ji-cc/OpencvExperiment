@@ -1,0 +1,17 @@
+﻿  人脸识别.cpp
+f:\研文件\课件\opencv\opencv\testopencv\testopencv\人脸识别.cpp(101): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+f:\研文件\课件\opencv\opencv\testopencv\testopencv\人脸识别.cpp(102): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  正在生成代码
+  4 of 541 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TestOpencv.vcxproj -> F:\研文件\课件\opencv\OpenCV\TestOpencv\x64\Release\TestOpencv.exe
